@@ -1,0 +1,5 @@
+require("rinzler.set")
+require("rinzler.remap")
+require("rinzler.clipboard")
+require("rinzler.diagnostics")
+require("rinzler.filetype")
